@@ -1,0 +1,2 @@
+exportPattern(mc.add.to.design.fast,mc.add.to.design,mc.despack.linear.conjoint,mc.despack.linear.utils,mc.get.initial.design,mc.get.one.design,mc.good.designs,mc.importances,M.Conjoint,mc.mean.over.design.utils,mc.mean.over.design.imps,mc.do.linear.conjoint)
+
